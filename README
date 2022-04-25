@@ -1,0 +1,5 @@
+install nodejs and npm
+then run "npm i"
+Set the domain in stripper.js
+run with "node stripper.js"
+output goes into /output/
